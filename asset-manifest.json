@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/todolist/static/css/main.f871d3c0.chunk.css",
+    "main.js": "/github.io/todolist/static/js/main.509d9057.chunk.js",
+    "main.js.map": "/github.io/todolist/static/js/main.509d9057.chunk.js.map",
+    "runtime-main.js": "/github.io/todolist/static/js/runtime-main.f6d06cdf.js",
+    "runtime-main.js.map": "/github.io/todolist/static/js/runtime-main.f6d06cdf.js.map",
+    "static/js/2.66316ec0.chunk.js": "/github.io/todolist/static/js/2.66316ec0.chunk.js",
+    "static/js/2.66316ec0.chunk.js.map": "/github.io/todolist/static/js/2.66316ec0.chunk.js.map",
+    "static/js/3.6aafc6c0.chunk.js": "/github.io/todolist/static/js/3.6aafc6c0.chunk.js",
+    "static/js/3.6aafc6c0.chunk.js.map": "/github.io/todolist/static/js/3.6aafc6c0.chunk.js.map",
+    "index.html": "/github.io/todolist/index.html",
+    "static/css/main.f871d3c0.chunk.css.map": "/github.io/todolist/static/css/main.f871d3c0.chunk.css.map",
+    "static/js/2.66316ec0.chunk.js.LICENSE.txt": "/github.io/todolist/static/js/2.66316ec0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d06cdf.js",
+    "static/js/2.66316ec0.chunk.js",
+    "static/css/main.f871d3c0.chunk.css",
+    "static/js/main.509d9057.chunk.js"
+  ]
+}
